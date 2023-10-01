@@ -21,7 +21,7 @@ from: markdown+emoji
 
 ## Github Repo Link
 
-[https://github.com/stat301-1-2023-fall/L00-setup-yechengwang.git](https://github.com/stat301-1-2023-fall/L00-setup-yechengwang.git)
+[https://github.com/yechengwang/L00-setup-yechengwang.git](https://github.com/yechengwang/L00-setup-yechengwang.git)
 
 :::
 
